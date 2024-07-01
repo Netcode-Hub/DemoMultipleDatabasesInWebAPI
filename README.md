@@ -112,13 +112,16 @@ Imagine having the flexibility to use both SQLite and SQL Server in your applica
 # Overview
    ![Screenshot 2024-07-01 055611](https://github.com/Netcode-Hub/DemoMultipleDatabasesInWebAPI/assets/110794348/133186ed-e49c-496a-9292-353f5ccb1096)
   
-Summary
+# Summary
 In this tutorial, we've explored the dynamic duo of SQLite and SQL Server in a single Web API project. Here's a quick recap of what we've covered:
 Setting Up the Databases: We showed you how to configure both SQLite and SQL Server in your development environment.
 1. Configuring Your Web API: We walked through the essential steps to set up your Web API to connect to both databases seamlessly.
 2. Database Contexts: We demonstrated how to create separate DbContexts for SQLite and SQL Server, ensuring smooth operations and data management.
 3. CRUD Operations: We implemented basic CRUD operations to see both databases in action within our Web API.
 4. Testing: We tested our API endpoints to confirm that data operations work flawlessly across both databases.
+
+# Conclusion
+Thank you for sticking with us through this journey of connecting multiple databases to your Web API! 🌟 We hope you found this tutorial insightful and practical for your development needs.
 
 # Here's a follow-up section to encourage engagement and support for Netcode-Hub:
 🌟 Get in touch with Netcode-Hub! 📫
